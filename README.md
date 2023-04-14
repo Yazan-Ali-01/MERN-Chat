@@ -3,13 +3,12 @@ This is a real-time chat application that allows users to chat with each other u
 
 ## Table of Contents
 
-- Features
-- Tech Stack
-- Installation
-- Challenges
-- Lessons Learned
-- Future Improvements
-- License
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Challenges](#challenges)
+- [Lessons Learned](#lessons-learned)
+- [Future Improvements](#future-improvements)
 
 ## <a name="features"></a>Features:
 
