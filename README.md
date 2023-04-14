@@ -5,6 +5,7 @@ This is a real-time chat application that allows users to chat with each other u
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Challenges](#challenges)
 - [Lessons Learned](#lessons-learned)
@@ -21,6 +22,11 @@ This is a real-time chat application that allows users to chat with each other u
 
 - Frontend: React, React Chat Engine Pretty
 - Backend: Node.js, Express.js, MongoDB, ChatEngine.io
+
+## Demo <a name="demo"></a>
+
+Check out the live demo of the app [here](https://mern-chat-94nv52dtu-yazan-ali-01.vercel.app/).
+<br><br>
 
 ## <a name="installation"></a>Installation
 
