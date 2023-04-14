@@ -44,7 +44,8 @@ Create a .env file in the root directory of the project.
 Add the following environment variables:
 
 PORT = 3001<br>
-PRIVATE_KEY = your_chat_engine_project_id
+PRIVATE_KEY = your_chat_engine_project_id<br>
+API_URL = http://localhost:3001
 
 Run the app:<br>
 in the root folder run
