@@ -38,13 +38,15 @@ npm install
 
 Set up environment variables:
 
-Create a .env file in the root directory of the project.
+Create a .env file in the frontend and another one in the backend directory of the project.<br>
 
-Add the following environment variables:
+Add the following environment variables to the backend env file:
 
 PORT = 3001<br>
 PRIVATE_KEY = your_chat_engine_project_id<br>
-API_URL = http://localhost:3001
+
+Add the following environment variables to the frontend env file:
+REACT_APP_API_URL = http://localhost:3001
 
 Run the app:<br>
 in the root folder run
